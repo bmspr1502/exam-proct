@@ -6,4 +6,4 @@
 
 3. Import the file database.sql into that database
 
-4.d start using it.
+4. Start using it.
